@@ -10,13 +10,14 @@
 - 📫 How to reach me: <i>neupersonalusage@gmail.com</i>
 - ⚡ A fact: I love teaching
 
-<h1></h1>
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lord-cosmos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-cosmos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<hr/>
 <h1></h1>
 
 <br clear="both">
@@ -45,6 +46,8 @@
 
 </div>
 
+<hr>
+
 <h1></h1>
 <br clear="both">
 
@@ -59,3 +62,9 @@
   </a>
 
 </div>
+
+<hr>
+
+<h1></h1>
+
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lord-cosmos/lord-cosmos/b703de21618893916b8d3dc6f8364f067d965b81/github-contribution-grid-snake-dark.svg" />
