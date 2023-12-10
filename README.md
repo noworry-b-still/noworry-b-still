@@ -2,7 +2,7 @@
 
 #### <span style="color: orange;">I am <i><span style="color: green;">Dinesh Pandikona</span></i></span>
 
-- 🔭 Currently pursuing my "M.S" in computer science at Northeastern University, Boston
+- 🔭 Currently pursuing my <i>M.S</i> in computer science at Northeastern University, Boston
 - 🌱 Learning <i>Design Paradigms</i> and <i>Algorithms</i>
 - 👯 Looking to collaborate on <i>Algorithms and Problem Solving</i>
 - 🤔 Looking for help with <i>Open Source</i> and <i>Concurrent/Parallel Systems</i>
