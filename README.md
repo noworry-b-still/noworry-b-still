@@ -1,6 +1,6 @@
 ### Namaste 🙏🏽
 
-#### <span style="color: orange;">I am <i><span style="color: green;">Dinesh Pandikona</span></i></span>
+#### <span style="color: orange;">I am <i><span style="color: green;">Dinesh Pandikona ✌🏽</span></i></span>
 
 - 🔭 Currently pursuing my <i>M.S</i> in computer science at Northeastern University, Boston
 - 🌱 Learning <i>Design Paradigms</i> and <i>Algorithms</i>
@@ -8,10 +8,9 @@
 - 🤔 Looking for help with <i>Open Source</i> and <i>Concurrent/Parallel Systems</i>
 - 💬 Ask me about <i>Typescript, Python, Spirituality</i>
 - 📫 How to reach me: <i>neupersonalusage@gmail.com</i>
-- ⚡ A fact: I love teaching
+- ⚡ A fact : I love teaching
 
 <h1></h1>
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lord-cosmos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -46,7 +45,6 @@
 
 </div>
 
-
 <h1></h1>
 <br clear="both">
 
@@ -61,7 +59,6 @@
   </a>
 
 </div>
-
 
 <h1></h1>
 
