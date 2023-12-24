@@ -1,11 +1,16 @@
 ### Namaste 🙏🏽
 
-#### <span style="color: orange;">I am <i><span style="color: green;">Dinesh Pandikona ✌🏽</span></i></span>
+<h3>
+  I'm
+  <a href="#">
+    <img src="./title.png" width="199" height="20" >
+  </a>
+</h3>
 
 - 🔭 Currently pursuing my <i>M.S</i> in computer science at Northeastern University, Boston
-- 🌱 Learning <i>Design Paradigms</i> and <i>Algorithms</i>
+- 🌱 Learning <i>Elixir</i> and <i>System Design</i>
 - 👯 Looking to collaborate on <i>Algorithms and Problem Solving</i>
-- 🤔 Looking for help with <i>Open Source</i> and <i>Concurrent/Parallel Systems</i>
+- 🤔 Looking for help with <i>Open Source</i> and <i>Concurrent/Parallel Systems with Elixir</i>
 - 💬 Ask me about <i>Typescript, Python, Spirituality</i>
 - 📫 How to reach me: <i>neupersonalusage@gmail.com</i>
 - ⚡ A fact : I love teaching
@@ -33,7 +38,6 @@
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
