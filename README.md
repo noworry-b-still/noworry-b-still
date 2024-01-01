@@ -8,12 +8,12 @@
 </h3>
 
 - 🔭 Currently pursuing my <i>M.S</i> in computer science at Northeastern University, Boston
-- 🌱 Learning <i>Elixir</i> and <i>System Design</i>
+- 🌱 Learning <i>System Design</i> and <i>Motion Desing</i>
 - 👯 Looking to collaborate on <i>Algorithms and Problem Solving</i>
 - 🤔 Looking for help with <i>Open Source</i> and <i>Concurrent/Parallel Systems with Elixir</i>
-- 💬 Ask me about <i>Typescript, Python, Spirituality</i>
+- 💬 Ask me about <i>Typescript, Python</i>
 - 📫 How to reach me: <i>neupersonalusage@gmail.com</i>
-- ⚡ A fact : I love teaching
+- ⚡ A fact : I like teaching
 
 <h1></h1>
 
@@ -38,6 +38,7 @@
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
