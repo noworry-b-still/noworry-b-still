@@ -8,7 +8,7 @@
 </h3>
 
 - 🔭 Currently pursuing my <i>M.S</i> in computer science at Northeastern University, Boston
-- 🌱 Learning <i>System Design</i> and <i>Motion Desing</i>
+- 🌱 Learning <i>System Design</i> and <i>Motion Design</i>
 - 👯 Looking to collaborate on <i>Algorithms and Problem Solving</i>
 - 🤔 Looking for help with <i>Open Source</i> and <i>Concurrent/Parallel Systems with Elixir</i>
 - 💬 Ask me about <i>Typescript, Python</i>
