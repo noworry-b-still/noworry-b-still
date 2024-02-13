@@ -67,4 +67,4 @@
 
 <h1></h1>
 
-![github-snake](https://raw.githubusercontent.com/lord-cosmos/lord-cosmos/output/github-contribution-grid-snake.svg)
+![github-snake](https://raw.githubusercontent.com/lord-cosmos/lord-cosmos/output/github-contribution-grid-snake-dark.svg)
