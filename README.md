@@ -17,7 +17,7 @@
 <h1></h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-cosmos&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noworry-b-still&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 <h1></h1>
