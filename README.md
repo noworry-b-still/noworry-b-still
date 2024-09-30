@@ -5,10 +5,11 @@
 </h3>
 
 - **Functional Programming Expertise**: Proficient in Elixir, with a strong foundation in functional programming principles.
+- **Object-Oriented Programming Expertise**:  Proficient in Python, with a strong foundation in OOP principles
 - **Full-Stack Development**: Flexible in building full-stack applications, including expertise in JS-based technologies, Python, REST, and GraphQL.
 - **Distributed Systems**: Knowledgeable in distributed systems and various database architectures.
 - **Project Management & CI/CD**: Proficient in Jira, Confluence, and GitHub Workflows for project management and CI/CD pipelines.
-- **Continuous Learning**: Eager to learn Go and OCaml, and open to exploring any tech stack that effectively solves the problem.
+- **Continuous Learning**: Eager to delve more into Rust and Elixir, and open to exploring any tech stack that effectively solves the problem.
 
 
 <h1></h1>
@@ -42,7 +43,7 @@
 <br clear="both">
 
 
-[![My Skills](https://skillicons.dev/icons?i=elixir,go,ocaml,py,typescript,graphql,java,mysql,redis,mongodb&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,c,rust,py,typescript,graphql,java,mysql,redis,mongodb&perline=4)](https://skillicons.dev)
 
 <h1></h1>
 <br clear="both">
