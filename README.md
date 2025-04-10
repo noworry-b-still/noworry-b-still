@@ -1,18 +1,20 @@
 ### Namaste 🙏🏽
 
-<h3>
+<h2>
   I'm <span style="font-size: 2em;">Dinesh Pandikona</span>
-</h3>
+</h2>
 
-Rust + Elixir Enthusiast | Distributed Systems Explorer | Full-Stack Builder
+### Distributed Systems Engineer | Backend Specialist
 
-- 💡 Functional & OOP – Elixir for FP, Python for OOP
-- 🌍 Full-Stack & APIs – JS, Python, REST, GraphQL
-- ⚡ Distributed Systems – Databases, Scaling, Resilience
-- 🛠 DevOps & CI/CD – GitHub Actions, Jira, Confluence
-- 📚 Always Learning – Deep diving into Rust & Elixir
-- 🔹 Minimalist | Pragmatic | Code that just works
-<h1></h1>
+- **Backend Expertise** – Golang, Erlang/OTP, Rust for high-performance applications
+- **Data Management** – PostgreSQL, Redis, MySQL optimization
+- **Concurrency Specialist** – Multi-threading, real-time synchronization, latency reduction
+- **ML/AI Integration** – Implementing practical ML/AI models with Python
+- **Scalable Architecture** – Memberlist, Kafka, caching strategies
+- **Strong OOP & Functional Programming Skills** – Proficient in clean, maintainable code design across paradigms
+- **Mathematics & Quantitative Finance** – Strong foundation in mathematics, currently learning Quantitative Finance
+- Currently exploring advanced resilience patterns in distributed systems while pursuing my MS in Computer Science at Northeastern.
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noworry-b-still&layout=compact" height="150" alt="languages graph"  />
