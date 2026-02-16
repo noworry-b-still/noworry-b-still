@@ -16,13 +16,7 @@ Rust-first. Systems over abstractions.
 [![My Skills](https://skillicons.dev/icons?i=rust,go,elixir,py,postgres,redis,kafka,docker&perline=4)](https://skillicons.dev)
 
 </td>
-<td width="50%" align="center" valign="top">
 
-**Most Used**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noworry-b-still&layout=compact&hide_border=true" height="140" />
-
-</td>
 </tr>
 </table>
 
